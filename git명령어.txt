@@ -8,4 +8,6 @@ git remote add origin https://github.com/parkmyounghoi/sec.git
 (어디 서버에 올릴지 지정)
 git push origin master
 (서버에 올려라)
-git rebase 
+git rebase -i (현재 commit 했는 버전 삭제)
+git fetch && git merge --ff-only Origin/master (서버 파일 가져와라)
+git checkout (버전 확인해라)
