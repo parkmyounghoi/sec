@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #aaa{ 
+            border: 10px dotted blue; 
+            background-color: yellow;
+            opacity: 0.3;
+            color: rgb(235, 235, 235);
+        }
+        .bbb{
+            background-image: url("./Lighthouse.jpg");
+        }
+    </style>
+    <script>
+        function doA(){
+            alert("눌렀음");
+            var aaa = document.getElementById("aaa");
+
+            var bbb = document.getElementsByClassName("bbb");
+
+        }
+    </script>
+</head>
+<body>
+    <div id="aaa" onclick="doA();">
+        1. 선색깔<br/>
+        2. 배경색깔<br/>
+        3. 글자색깔<br/>
+    </div>
+    <div class="bbb">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur possimus natus quisquam expedita amet ex, necessitatibus quos ut officia commodi laboriosam! Incidunt magni, impedit veniam ullam quo molestiae nulla ab.
+    </div>
+    <div class="bbb">
+        asdfasdf
+    </div>
+    <div id="aaa">
+
+    </div>
+</body>
+</html>

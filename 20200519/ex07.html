@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            color: white;
+        }
+        #contain{
+            background-color: brown;
+            height: 300px;
+            position: relative;
+        }
+        #rightBottom{
+            background-color: gray;
+            position: absolute;
+            right: 10px;
+            bottom: 30px;
+            padding: 50px;
+        }
+        #leftBottom{
+            background-color: blue;
+            position: absolute;
+            left:50px;
+            bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div id="contain">
+        <div id="rightBottom">
+            오른쪽밑에DIV
+        </div>
+        <div id="leftBottom">
+            <iframe 
+            width="320"
+            height="200"
+            src="https://www.youtube.com/embed/KAiK_1h1DDg"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+</body>
+</html>

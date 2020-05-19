@@ -8,3 +8,4 @@ git remote add origin https://github.com/parkmyounghoi/sec.git
 (어디 서버에 올릴지 지정)
 git push origin master
 (서버에 올려라)
+git rebase 
