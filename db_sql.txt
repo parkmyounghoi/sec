@@ -1,0 +1,9 @@
+#테이블 생성
+create table member(
+		id varchar(200) null,
+		pw varchar(200) null,
+		phone varchar(200) null,
+		remark varchar(200) null
+);
+#테이블 내용조회
+select * from member
