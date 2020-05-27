@@ -1,0 +1,13 @@
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\bin\Debug\RandomExample.exe.config
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\bin\Debug\RandomExample.exe
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\bin\Debug\RandomExample.pdb
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\obj\Debug\RandomExample.csprojAssemblyReference.cache
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\obj\Debug\RandomExample.Form1.resources
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\obj\Debug\RandomExample.Properties.Resources.resources
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\obj\Debug\RandomExample.csproj.GenerateResource.cache
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\obj\Debug\RandomExample.csproj.CoreCompileInputs.cache
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\obj\Debug\RandomExample.exe
+F:\강의자료\source\이동준Ver\5장\5_1_random\RandomExample\RandomExample\obj\Debug\RandomExample.pdb
+C:\Users\305\Desktop\c# 강의자료\강의시 사용한 소스\5장\5_1_random\RandomExample\RandomExample\bin\Debug\RandomExample.exe.config
+C:\Users\305\Desktop\c# 강의자료\강의시 사용한 소스\5장\5_1_random\RandomExample\RandomExample\obj\Debug\RandomExample.exe
+C:\Users\305\Desktop\c# 강의자료\강의시 사용한 소스\5장\5_1_random\RandomExample\RandomExample\obj\Debug\RandomExample.pdb

@@ -1,0 +1,1 @@
+C:\Users\305\Desktop\c# 강의자료\강의소스\9장\9_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config

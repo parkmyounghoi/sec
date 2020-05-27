@@ -1,0 +1,7 @@
+C:\ITCookbook\코드\11장\Indexers\bin\Debug\Indexers.exe.config
+D:\강의\예제소스\source\8장\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+D:\강의\예제소스\source\8장\Indexers\bin\Debug\Indexers.exe.config
+D:\강의\예제소스\source\8장\Indexers\bin\Debug\Indexers.exe
+D:\강의\예제소스\source\8장\Indexers\bin\Debug\Indexers.pdb
+D:\강의\예제소스\source\8장\Indexers\obj\Debug\Indexers.exe
+D:\강의\예제소스\source\8장\Indexers\obj\Debug\Indexers.pdb

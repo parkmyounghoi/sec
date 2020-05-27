@@ -1,0 +1,9 @@
+F:\강의자료\source\이동준Ver\5장\5_5classvariable\customMath\customMath\bin\Debug\customMath.exe.config
+F:\강의자료\source\이동준Ver\5장\5_5classvariable\customMath\customMath\bin\Debug\customMath.exe
+F:\강의자료\source\이동준Ver\5장\5_5classvariable\customMath\customMath\bin\Debug\customMath.pdb
+F:\강의자료\source\이동준Ver\5장\5_5classvariable\customMath\customMath\obj\Debug\customMath.csprojAssemblyReference.cache
+F:\강의자료\source\이동준Ver\5장\5_5classvariable\customMath\customMath\obj\Debug\customMath.Properties.Resources.resources
+F:\강의자료\source\이동준Ver\5장\5_5classvariable\customMath\customMath\obj\Debug\customMath.csproj.GenerateResource.cache
+F:\강의자료\source\이동준Ver\5장\5_5classvariable\customMath\customMath\obj\Debug\customMath.csproj.CoreCompileInputs.cache
+F:\강의자료\source\이동준Ver\5장\5_5classvariable\customMath\customMath\obj\Debug\customMath.exe
+F:\강의자료\source\이동준Ver\5장\5_5classvariable\customMath\customMath\obj\Debug\customMath.pdb

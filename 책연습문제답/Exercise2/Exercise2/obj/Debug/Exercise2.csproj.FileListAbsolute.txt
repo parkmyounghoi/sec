@@ -1,0 +1,12 @@
+\\mac\home\documents\visual studio 2015\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+\\mac\home\documents\visual studio 2015\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+\\mac\home\documents\visual studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+\\mac\home\documents\visual studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\4204_answer\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\4204_answer\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\4204_answer\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\4204_answer\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\4204_answer\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\4204_answer\Exercise2\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache

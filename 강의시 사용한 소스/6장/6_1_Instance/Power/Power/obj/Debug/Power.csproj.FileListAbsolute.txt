@@ -1,0 +1,10 @@
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\bin\Debug\Power.exe.config
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\bin\Debug\Power.exe
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\bin\Debug\Power.pdb
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\obj\Debug\Power.csprojAssemblyReference.cache
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\obj\Debug\Power.Form1.resources
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\obj\Debug\Power.Properties.Resources.resources
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\obj\Debug\Power.csproj.GenerateResource.cache
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\obj\Debug\Power.csproj.CoreCompileInputs.cache
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\obj\Debug\Power.exe
+F:\강의자료\source\이동준Ver\6장\6_1_Instance\Power\Power\obj\Debug\Power.pdb

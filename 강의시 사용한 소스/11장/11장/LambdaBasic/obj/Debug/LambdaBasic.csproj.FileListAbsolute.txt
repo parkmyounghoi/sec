@@ -1,0 +1,8 @@
+C:\ITCookbook\LambdaBasic\bin\Debug\LambdaBasic.exe.config
+F:\강의자료\source\11장\LambdaBasic\bin\Debug\LambdaBasic.exe.config
+F:\강의자료\source\11장\LambdaBasic\bin\Debug\LambdaBasic.exe
+F:\강의자료\source\11장\LambdaBasic\bin\Debug\LambdaBasic.pdb
+F:\강의자료\source\11장\LambdaBasic\obj\Debug\LambdaBasic.csprojAssemblyReference.cache
+F:\강의자료\source\11장\LambdaBasic\obj\Debug\LambdaBasic.csproj.CoreCompileInputs.cache
+F:\강의자료\source\11장\LambdaBasic\obj\Debug\LambdaBasic.exe
+F:\강의자료\source\11장\LambdaBasic\obj\Debug\LambdaBasic.pdb

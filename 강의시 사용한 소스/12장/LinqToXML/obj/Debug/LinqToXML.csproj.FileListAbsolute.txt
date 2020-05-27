@@ -1,0 +1,7 @@
+C:\ITCookbook\LinqToXML\bin\Debug\LinqToXML.exe.config
+H:\경북산업직업전문학교\12장\LinqToXML\bin\Debug\LinqToXML.exe.config
+H:\경북산업직업전문학교\12장\LinqToXML\bin\Debug\LinqToXML.exe
+H:\경북산업직업전문학교\12장\LinqToXML\bin\Debug\LinqToXML.pdb
+H:\경북산업직업전문학교\12장\LinqToXML\obj\Debug\LinqToXML.csprojAssemblyReference.cache
+H:\경북산업직업전문학교\12장\LinqToXML\obj\Debug\LinqToXML.exe
+H:\경북산업직업전문학교\12장\LinqToXML\obj\Debug\LinqToXML.pdb

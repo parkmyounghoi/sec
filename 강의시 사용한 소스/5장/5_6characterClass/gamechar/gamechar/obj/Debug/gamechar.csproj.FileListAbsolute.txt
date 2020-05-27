@@ -1,0 +1,12 @@
+F:\강의자료\source\이동준Ver\5장\5_6characterClass\gamechar\gamechar\bin\Debug\gamechar.exe.config
+F:\강의자료\source\이동준Ver\5장\5_6characterClass\gamechar\gamechar\bin\Debug\gamechar.exe
+F:\강의자료\source\이동준Ver\5장\5_6characterClass\gamechar\gamechar\bin\Debug\gamechar.pdb
+F:\강의자료\source\이동준Ver\5장\5_6characterClass\gamechar\gamechar\obj\Debug\gamechar.csprojAssemblyReference.cache
+F:\강의자료\source\이동준Ver\5장\5_6characterClass\gamechar\gamechar\obj\Debug\gamechar.Properties.Resources.resources
+F:\강의자료\source\이동준Ver\5장\5_6characterClass\gamechar\gamechar\obj\Debug\gamechar.csproj.GenerateResource.cache
+F:\강의자료\source\이동준Ver\5장\5_6characterClass\gamechar\gamechar\obj\Debug\gamechar.csproj.CoreCompileInputs.cache
+F:\강의자료\source\이동준Ver\5장\5_6characterClass\gamechar\gamechar\obj\Debug\gamechar.exe
+F:\강의자료\source\이동준Ver\5장\5_6characterClass\gamechar\gamechar\obj\Debug\gamechar.pdb
+C:\Users\305\Desktop\c# 강의자료\강의시 사용한 소스\5장\5_6characterClass\gamechar\gamechar\bin\Debug\gamechar.exe.config
+C:\Users\305\Desktop\c# 강의자료\강의시 사용한 소스\5장\5_6characterClass\gamechar\gamechar\obj\Debug\gamechar.exe
+C:\Users\305\Desktop\c# 강의자료\강의시 사용한 소스\5장\5_6characterClass\gamechar\gamechar\obj\Debug\gamechar.pdb

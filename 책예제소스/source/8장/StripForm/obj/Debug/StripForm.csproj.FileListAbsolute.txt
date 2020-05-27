@@ -1,0 +1,10 @@
+C:\ITCookbook\윈폼\StripForm\bin\Debug\StripForm.exe.config
+D:\강의\예제소스\source\8장\StripForm\bin\Debug\StripForm.exe.config
+D:\강의\예제소스\source\8장\StripForm\bin\Debug\StripForm.exe
+D:\강의\예제소스\source\8장\StripForm\bin\Debug\StripForm.pdb
+D:\강의\예제소스\source\8장\StripForm\obj\Debug\StripForm.csprojAssemblyReference.cache
+D:\강의\예제소스\source\8장\StripForm\obj\Debug\StripForm.Form1.resources
+D:\강의\예제소스\source\8장\StripForm\obj\Debug\StripForm.Properties.Resources.resources
+D:\강의\예제소스\source\8장\StripForm\obj\Debug\StripForm.csproj.GenerateResource.cache
+D:\강의\예제소스\source\8장\StripForm\obj\Debug\StripForm.exe
+D:\강의\예제소스\source\8장\StripForm\obj\Debug\StripForm.pdb

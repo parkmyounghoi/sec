@@ -1,0 +1,8 @@
+\\mac\home\documents\visual studio 2015\Projects\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+\\mac\home\documents\visual studio 2015\Projects\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+\\mac\home\documents\visual studio 2015\Projects\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+\\mac\home\documents\visual studio 2015\Projects\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\4204_answer\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\4204_answer\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\4204_answer\Exercise3\Exercise3\obj\Debug\Exercise3.pdb

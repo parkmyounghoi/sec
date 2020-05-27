@@ -1,0 +1,13 @@
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\305\Desktop\c# 강의자료\강의시 사용한 소스\5장\5_1_random\WindowsFormsApp1연습\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\305\Desktop\c# 강의자료\강의시 사용한 소스\5장\5_1_random\WindowsFormsApp1연습\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\305\Desktop\c# 강의자료\강의시 사용한 소스\5장\5_1_random\WindowsFormsApp1연습\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

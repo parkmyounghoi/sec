@@ -1,0 +1,10 @@
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\bin\Debug\MyMathMethod.exe.config
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\bin\Debug\MyMathMethod.exe
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\bin\Debug\MyMathMethod.pdb
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\obj\Debug\MyMathMethod.csprojAssemblyReference.cache
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\obj\Debug\MyMathMethod.Form1.resources
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\obj\Debug\MyMathMethod.Properties.Resources.resources
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\obj\Debug\MyMathMethod.csproj.GenerateResource.cache
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\obj\Debug\MyMathMethod.csproj.CoreCompileInputs.cache
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\obj\Debug\MyMathMethod.exe
+F:\강의자료\source\이동준Ver\6장\6_2_classmethod\MyMathMethod\MyMathMethod\obj\Debug\MyMathMethod.pdb

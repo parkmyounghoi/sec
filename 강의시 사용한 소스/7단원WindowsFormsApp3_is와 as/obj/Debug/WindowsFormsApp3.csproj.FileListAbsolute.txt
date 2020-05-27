@@ -1,0 +1,26 @@
+C:\Users\KB\Desktop\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\KB\Desktop\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\KB\Desktop\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\룰루랄라\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\KB\Desktop\룰루랄라\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\KB\Desktop\룰루랄라\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\KB\Desktop\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\KB\Desktop\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+H:\경북산업직업전문학교\0403_실제강의\룰루랄라\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+H:\경북산업직업전문학교\0403_실제강의\룰루랄라\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+H:\경북산업직업전문학교\0403_실제강의\룰루랄라\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+H:\경북산업직업전문학교\0403_실제강의\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+H:\경북산업직업전문학교\0403_실제강의\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+H:\경북산업직업전문학교\0403_실제강의\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+H:\경북산업직업전문학교\0403_실제강의\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+H:\경북산업직업전문학교\0403_실제강의\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+H:\경북산업직업전문학교\0403_실제강의\룰루랄라\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\강의\이동준ver\04월06일\WindowsFormsApp3_is와 as\bin\Debug\WindowsFormsApp3.exe.config
+D:\강의\이동준ver\04월06일\WindowsFormsApp3_is와 as\bin\Debug\WindowsFormsApp3.exe
+D:\강의\이동준ver\04월06일\WindowsFormsApp3_is와 as\bin\Debug\WindowsFormsApp3.pdb
+D:\강의\이동준ver\04월06일\WindowsFormsApp3_is와 as\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\강의\이동준ver\04월06일\WindowsFormsApp3_is와 as\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\강의\이동준ver\04월06일\WindowsFormsApp3_is와 as\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\강의\이동준ver\04월06일\WindowsFormsApp3_is와 as\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\강의\이동준ver\04월06일\WindowsFormsApp3_is와 as\obj\Debug\WindowsFormsApp3.exe
+D:\강의\이동준ver\04월06일\WindowsFormsApp3_is와 as\obj\Debug\WindowsFormsApp3.pdb

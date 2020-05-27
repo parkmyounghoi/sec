@@ -1,0 +1,7 @@
+C:\ITCookbook\UnnamedObject\bin\Debug\UnnamedObject.exe.config
+D:\강의\예제소스\source\12장\UnnamedObject\bin\Debug\UnnamedObject.exe.config
+D:\강의\예제소스\source\12장\UnnamedObject\bin\Debug\UnnamedObject.exe
+D:\강의\예제소스\source\12장\UnnamedObject\bin\Debug\UnnamedObject.pdb
+D:\강의\예제소스\source\12장\UnnamedObject\obj\Debug\UnnamedObject.csprojAssemblyReference.cache
+D:\강의\예제소스\source\12장\UnnamedObject\obj\Debug\UnnamedObject.exe
+D:\강의\예제소스\source\12장\UnnamedObject\obj\Debug\UnnamedObject.pdb

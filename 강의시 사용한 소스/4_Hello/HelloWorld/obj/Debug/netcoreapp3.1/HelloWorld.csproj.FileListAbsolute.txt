@@ -1,0 +1,26 @@
+E:\KB\cSharp\Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+E:\KB\cSharp\Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+E:\KB\cSharp\Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+E:\KB\cSharp\Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+E:\KB\cSharp\Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+E:\KB\cSharp\Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\KB\cSharp\Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+E:\KB\cSharp\Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\KB\cSharp\Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+E:\KB\cSharp\Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+E:\KB\cSharp\Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+E:\KB\cSharp\Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\KB\cSharp\Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\경북산업직업전문학교\빅데이터 UI반 대비 c# 강의 자료\c# 강의안(이동준ver)\강의소스\4_Hello\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

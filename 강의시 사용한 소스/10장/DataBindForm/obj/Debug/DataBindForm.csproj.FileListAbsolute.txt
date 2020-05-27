@@ -1,0 +1,18 @@
+C:\ITCookbook\윈폼\DataBindForm\bin\Debug\DataBindForm.exe.config
+C:\ITCookbook\윈폼\DataBindForm\bin\Debug\DataBindForm.exe
+C:\ITCookbook\윈폼\DataBindForm\bin\Debug\DataBindForm.pdb
+C:\ITCookbook\윈폼\DataBindForm\obj\Debug\DataBindForm.csprojResolveAssemblyReference.cache
+C:\ITCookbook\윈폼\DataBindForm\obj\Debug\DataBindForm.Form1.resources
+C:\ITCookbook\윈폼\DataBindForm\obj\Debug\DataBindForm.Properties.Resources.resources
+C:\ITCookbook\윈폼\DataBindForm\obj\Debug\DataBindForm.csproj.GenerateResource.Cache
+C:\ITCookbook\윈폼\DataBindForm\obj\Debug\DataBindForm.exe
+C:\ITCookbook\윈폼\DataBindForm\obj\Debug\DataBindForm.pdb
+C:\Users\KB\Desktop\4월 8일\10장\DataBindForm\bin\Debug\DataBindForm.exe.config
+C:\Users\KB\Desktop\4월 8일\10장\DataBindForm\bin\Debug\DataBindForm.exe
+C:\Users\KB\Desktop\4월 8일\10장\DataBindForm\bin\Debug\DataBindForm.pdb
+C:\Users\KB\Desktop\4월 8일\10장\DataBindForm\obj\Debug\DataBindForm.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\4월 8일\10장\DataBindForm\obj\Debug\DataBindForm.Form1.resources
+C:\Users\KB\Desktop\4월 8일\10장\DataBindForm\obj\Debug\DataBindForm.Properties.Resources.resources
+C:\Users\KB\Desktop\4월 8일\10장\DataBindForm\obj\Debug\DataBindForm.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\4월 8일\10장\DataBindForm\obj\Debug\DataBindForm.exe
+C:\Users\KB\Desktop\4월 8일\10장\DataBindForm\obj\Debug\DataBindForm.pdb

@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\Exercise5\Exercise5\bin\Debug\Exercise5.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Exercise5\Exercise5\bin\Debug\Exercise5.exe
+\\mac\home\documents\visual studio 2015\Projects\Exercise5\Exercise5\bin\Debug\Exercise5.pdb
+\\mac\home\documents\visual studio 2015\Projects\Exercise5\Exercise5\obj\Debug\Exercise5.exe
+\\mac\home\documents\visual studio 2015\Projects\Exercise5\Exercise5\obj\Debug\Exercise5.pdb

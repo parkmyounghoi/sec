@@ -1,0 +1,7 @@
+C:\ITCookbook\StructCopy\bin\Debug\StructCopy.exe.config
+D:\강의\예제소스\source\8장\StructCopy\bin\Debug\StructCopy.exe.config
+D:\강의\예제소스\source\8장\StructCopy\bin\Debug\StructCopy.exe
+D:\강의\예제소스\source\8장\StructCopy\bin\Debug\StructCopy.pdb
+D:\강의\예제소스\source\8장\StructCopy\obj\Debug\StructCopy.csprojAssemblyReference.cache
+D:\강의\예제소스\source\8장\StructCopy\obj\Debug\StructCopy.exe
+D:\강의\예제소스\source\8장\StructCopy\obj\Debug\StructCopy.pdb

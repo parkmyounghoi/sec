@@ -1,0 +1,7 @@
+C:\ITCookbook\ExceptionBasic\bin\Debug\ExceptionBasic.exe.config
+D:\강의\예제소스\source\10장\ExceptionBasic\bin\Debug\ExceptionBasic.exe.config
+D:\강의\예제소스\source\10장\ExceptionBasic\bin\Debug\ExceptionBasic.exe
+D:\강의\예제소스\source\10장\ExceptionBasic\bin\Debug\ExceptionBasic.pdb
+D:\강의\예제소스\source\10장\ExceptionBasic\obj\Debug\ExceptionBasic.csprojAssemblyReference.cache
+D:\강의\예제소스\source\10장\ExceptionBasic\obj\Debug\ExceptionBasic.exe
+D:\강의\예제소스\source\10장\ExceptionBasic\obj\Debug\ExceptionBasic.pdb
