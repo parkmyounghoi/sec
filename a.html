@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js"></script>
+    <style>
+        svg{width: 300px; height: 300px; border: 1px solid black;}
+        circle{fill:red}
+    </style>
+</head>
+<body>
+    <h1>마이 산포도</h1>
+    <svg id="myg"></svg>
+    <div id="text"></div>
+    <script>
+        var svgHeight = 300;
+
+        var offsetX = 30;
+        var offsetY = 20;
+
+        var svg = d3.select("#myg");
+        var dataSet = [[10,10,5],[30,30,5]];
+
+        var circleElements = svg.selectAll("circle")
+                                .data(dataSet)
+                                .enter()
+                                .append("circle")
+                                .attr("cx",function(d,i){
+                                    return d[0]+offsetX;
+                                })
+                                .attr("cy",function(d,i){
+                                    return svgHeight - d[1]-offsetY;
+                                })
+                                .attr("r",function(d,i){
+                                    return d[2];
+                                })
+        setInterval(function(){
+            circleElements.transition()
+                .duration(2500)
+                .attr("cx",function(d,i){
+                    return Math.random()*300+offsetX;
+                })
+                .attr("cy",function(d,i){
+                    return svgHeight - Math.random()*300-offsetY;
+                })
+                .attr("r",function(d,i){
+                    return Math.random()*30;
+                });
+        },1000)
+                                
+
+        var xScale = d3.scaleLinear()
+                     .domain([0,300])
+                     .range([0,300])
+
+        var pointX = d3.axisBottom(xScale).ticks(5);
+
+        var yScale = d3.scaleLinear()
+                     .domain([0,300])
+                     .range([300,0])
+        
+        var pointY = d3.axisLeft(yScale).ticks(5);
+
+        console.log(xScale)
+        
+        svg.append("g")
+           .style("stroke","black")
+           .attr("transform","translate("+offsetX+","+(svgHeight-offsetY)+")")
+           .call( pointX );
+        svg.append("g")
+           .style("stroke","black")
+           .attr("transform","translate("+offsetX+","+(svgHeight - 300 - offsetY)+")")
+           .call( pointY );
+
+        circleElements.on("mouseover",function(d){
+            document.getElementById("text").innerHTML="x = "+d[0]+"y = "+d[1];
+        })
+
+    </script>
+</body>
+</html>
